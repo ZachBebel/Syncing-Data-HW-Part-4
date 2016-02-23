@@ -1,5 +1,5 @@
 {
-    "name": "Syncing Data HW Part 4",
+    "name": "Syncing-Data-HW-Part-4",
     "version": "0.0.0",
     "description": "A simple application for updating object properties through websockets",
     "main": "./src/app.js",
